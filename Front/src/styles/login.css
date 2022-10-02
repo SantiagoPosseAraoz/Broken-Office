@@ -1,0 +1,100 @@
+.body{
+  background-color: wheat;
+}
+.css-l49nra {
+  color: black !important;
+}
+.css-l49nra:hover {
+  border-color: #bfd732 !important;
+}
+.css-l49nra:focus-visible {
+  border-color: #bfd732 !important;
+  box-shadow: 0 0 0 1px #bfd732 !important;
+}
+.css-156sogh:hover {
+  border-color: #bfd732 !important;
+}
+.css-156sogh:focus-visible {
+  border-color: #bfd732 !important;
+  box-shadow: 0 0 0 1px #bfd732 !important;
+}
+.login input {
+  margin: 0 25px;
+  max-width: 240px;
+}
+.css-1p5r5x7 {
+  background-color: #bfd732 !important;
+  color: black !important;
+  border-radius: 30px !important;
+}
+.css-1p5r5x7:hover {
+  background-color: #92c64e !important;
+}
+
+.login button {
+  /* background-color: #bfd732 !important; */
+  margin: 40px;
+  
+}
+.loginCart {
+  display: flex;
+  flex-direction: column;
+  margin: 50px auto !important;
+}
+.loginView {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto !important;
+}
+.map {
+  background-color: black;
+} 
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.sent {
+  background-color:#92c64e  ;
+  color: black;
+  display: flex;
+  text-align: right;
+  flex-direction:column ;
+  border-radius: 15px;
+  margin-left: 40%;
+  margin-bottom: 5px ;
+  margin-top: 5px ;
+  padding: 4px;
+}
+.receive{
+  background-color: #e5e5ea;
+  color: black;
+  display: flex;
+  text-align: left;
+  flex-direction:column ;
+  border-radius: 15px;
+  margin-right: 40%;
+  margin-bottom: 5px ;
+  margin-top: 5px ;
+  padding: 4px;
+}
+
+.messages {
+  padding: 2 3;
+  margin: -4;
+}
+
+.nsm7Bb-HzV7m-LgbsSe{
+  border-radius: unset;
+  box-sizing: unset;
+  background-color: white;
+  border: none;
+}
+
+.nsm7Bb-HzV7m-LgbsSe.pSzOP-SxQuSe{
+  border-radius: unset;
+  box-sizing: unset;
+  border: none;
+}
+

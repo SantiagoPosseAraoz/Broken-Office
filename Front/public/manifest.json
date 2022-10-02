@@ -1,0 +1,108 @@
+{
+  "short_name": "Broken Office",
+  "name": "Broken Office Team Globant P5",
+  "manifest_version": 2,
+  "permissions": [
+    "activeTab",
+    "cookies",
+    "storage",
+    "*://*/*"
+  ],
+  "categories": ["Problem solving", "office", "Globant", "Comunication"],
+  "description": "Una aplicación para reportar los errores y problemas que tengas en tu espacio de trabajo a tus empleadores.",
+  "dir": "ltr",
+  "prefer_related_applications": false,
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon12.png",
+      "type": "image/png",
+      "sizes": "12x12",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon16.png",
+      "type": "image/png",
+      "sizes": "16x16",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon20.png",
+      "type": "image/png",
+      "sizes": "20x20",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon24.png",
+      "type": "image/png",
+      "sizes": "24x24",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon32.png",
+      "type": "image/png",
+      "sizes": "32x32",
+      "purpose": "any maskable"
+    },
+    
+    {
+      "src": "icon36.png",
+      "type": "image/png",
+      "sizes": "36x36",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon48.png",
+      "type": "image/png",
+      "sizes": "48x48",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon72.png",
+      "type": "image/png",
+      "sizes": "72x72",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon96.png",
+      "type": "image/png",
+      "sizes": "96x96",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon144.png",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon1024.png",
+      "type": "image/png",
+      "sizes": "1024x1024",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "display_override": ["fullscreen", "minimal-ui"],
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
